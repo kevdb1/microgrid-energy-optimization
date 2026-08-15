@@ -74,7 +74,7 @@ This scenario compares how different carbon prices affect thermal generation, re
 ## Project Files
 
 - [`Microgrid_Project_26Summer.ipynb`](Microgrid_Project_26Summer.ipynb) — complete Colab notebook
-- [`Microgrid_Optimization_Report.pdf`](Microgrid_Optimization_Report.pdf) — bilingual project report
+- [`Microgrid_Optimization_Report.pdf`](Microgrid_Optimization_Report.pdf) — English project report
 - [`hf_solar.csv`](hf_solar.csv) — solar-generation data
 - [`hf_wind.csv`](hf_wind.csv) — wind-generation data
 
