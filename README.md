@@ -32,7 +32,7 @@ and carbon-pricing scenarios.
 
 ## Files
 
-- `microgrid_optimization.ipynb`: complete model and analysis
+- `Microgrid_Project_26Summer.ipynb`: complete model and analysis
 - `microgrid_optimization_report.pdf`: full project report
 - `figures/`: selected result figures
 
